@@ -14,7 +14,7 @@ const Home = () => {
                 <h2 className='text-4xl  sm:text-7xl font-bold text-white'>Im a Web Developer</h2>
                 <p className='text-gray-500 py-4 max-w-md'>I have knowledge and experience, building and designing software. Currently, yo amo to work on web application using technologies like JavaScript, Java, React, Angular.</p>
                 <div>
-                    <button className='group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bggradient-to-r from-cyan-500 to-blue-500 cursor-pointer '>
+                    <button className='group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer '>
                          Portfolio
                          <span className='group-hover:rotate-90 duration-300'>
                          <MdOutlineKeyboardArrowRight size={25} className='ml-1'/>
