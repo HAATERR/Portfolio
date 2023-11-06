@@ -12,7 +12,7 @@ const portfolios = [
   {
     id: 1,
     src: JsWeather,
-    href: "https://disney-clone-ff779.web.app/"
+    href: "https://weatherappjs-enzo.netlify.app"
   },
   {
     id: 2,
