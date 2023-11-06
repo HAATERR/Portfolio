@@ -11,7 +11,8 @@ const Portfolio = () => {
 const portfolios = [
   {
     id: 1,
-    src: JsWeather
+    src: JsWeather,
+    href: "https://disney-clone-ff779.web.app/"
   },
   {
     id: 2,
@@ -28,7 +29,8 @@ const portfolios = [
   },
   {
     id: 5,
-    src: disneyClone
+    src: disneyClone,
+    href: "https://disney-clone-ff779.web.app/"
   },
   {
     id: 6,
@@ -58,9 +60,11 @@ const portfolios = [
               className="rounded-md duration-200 hover:scale-105"
             />
             <div className="flex items-center justify-center">
+              <a href="">
               <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
                 Demo
               </button>
+              </a>
               <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
                 Code
               </button>
